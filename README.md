@@ -16,3 +16,9 @@
 * **幾何構造**：不使用任何圖片，完全利用 border-top 與 transparent（透明邊框）技巧，在網頁上勾勒出梯形的幾何杯身（.cup & .inside）。
 
 * **零 JS 交互**：利用 tabindex 屬性與 :focus 偽類，實作了無需 JavaScript 即可觸發的元件切換與登場效果。
+## 🧠 程式邏輯
+* **絕對定位 (Absolute Positioning)**：精確控制每一顆珍珠在容器內的初始與終止座標。
+
+* **偽類選擇器 (Pseudo-classes)**：靈活運用 :hover、:focus 處理使用者交互。
+
+* **變換與過渡 (Transform & Transition)**：實作平滑的水位升降與物體位移。
